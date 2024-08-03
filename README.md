@@ -1,4 +1,4 @@
-![logo](https://github.com/Aqleem/Aqleem/blob/main/banner.png)
+![logo](https://github.com/Aqleem/Aqleem/blob/main/bannerg.jpg)
 <h1 align="center">Hi 👋, I'm Aqleem orakzai</h1>
 <h3 align="center">Software Engineer | MERN Stack Trainer</h3>
 <img align="right" src="https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-6/412224941_5680580092066827_1271671846841911124_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH1xY2QYfd4fBgPTA1Du6I5Ys497wmCfpZizj3vCYJ-lqgPWffclGrTVvKNDEvq8YhnjOnVjj_cwMmjnuJIRiW7&_nc_ohc=jse2rHOuCMEQ7kNvgEZU3Jz&_nc_ht=scontent.fisb6-2.fna&oh=00_AYB3Lmx7GeIZd3D1dtEkgWFWTGPDTZUh1_ptGTxBaW-08g&oe=66B3BBFB" alt="code" width="400">
